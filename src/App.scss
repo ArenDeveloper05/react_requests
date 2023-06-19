@@ -1,0 +1,21 @@
+.App {
+  > button {
+    width: 100px;
+    height: 60px;
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .modal {
+    width: 300px;
+    height: 200px;
+    box-shadow: 2px 2px 10px grey;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
