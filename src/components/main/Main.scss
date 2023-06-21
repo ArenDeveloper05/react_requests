@@ -1,0 +1,13 @@
+main {
+  max-width: 1600px;
+  margin: auto;
+  padding: 24px;
+  padding-top: 64px;
+  background-color: skyblue;
+  margin-top: 80px;
+  min-height: 500px;
+  .users-list {
+    border: solid;
+    padding: 24px;
+  }
+}
